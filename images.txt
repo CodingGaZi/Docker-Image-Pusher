@@ -1,1 +1,2 @@
 ubuntu:22.04
+mcr.microsoft.com/devcontainers/cpp:1-ubuntu22.04
